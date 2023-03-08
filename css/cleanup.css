@@ -1,1 +1,14 @@
 /* write your override styles here */
+#wall div#tag-3.slick {
+    background: url(../images/new-image.png) no-repeat;
+  }
+  #wall .tag-1 {
+    background: none;}
+    div#wall div.parent #tag-5.slick.special {
+        background: url(../images/new-image.png) no-repeat;
+      }
+    div#wall div.parent #tag-5.slick.special {
+        background:none;
+    }
+    #wall #tag-5 {background: none;}
+    #wall #tag-2 {background: none;}
